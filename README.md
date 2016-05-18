@@ -1,1 +1,1 @@
-# java-exercise-homwork
+# java-exercise-homework
